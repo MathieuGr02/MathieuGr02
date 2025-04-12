@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Setup
+- [Neovim](https://github.com/MathieuGr02/neovim)
+- [Keyboard](https://github.com/MathieuGr02/qmk_lily58)
